@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textStyles" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="textStylesTwo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white_two</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+</resources>
